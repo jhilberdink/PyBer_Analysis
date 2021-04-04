@@ -17,11 +17,11 @@ My analysis of PyBer ride share data produced the following results:
 
 A summary of results by city type can be found on the following dataframe:
 
-![](C:\Users\jhilb\OneDrive\Desktop\screenshots\pyber summary.png)
+![](analysis/pyber_summary.png)
 
 The following figure shows weekly fare totals for the different city types for January-April 2019.
 
-![](C:\Users\jhilb\Class\PyBer_Analysis\analysis\weeklyFares.png)
+![](analysis/weekly_Fares.png)
 
 ## Summary
 
