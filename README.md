@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-This project breaks down PyBer ride share data to see how it differs for urban, suburban, and rural city types. To complete the analysis, I looked at differences in the number of drivers, number of rides, and fares for the three city types. Finally, I calculated the weekly fare totals for the different city types.
+This project compares PyBer ride-sharing data across different types of cities in 2019. To complete the analysis, I looked at differences in the number of drivers, number of rides, and fares for urban, suburban, and rural cities. Finally, I calculated the weekly fare totals for the different city types.
 
 ## Results
 
@@ -17,11 +17,11 @@ My analysis of PyBer ride share data produced the following results:
 
 A summary of results by city type can be found on the following dataframe:
 
-![](analysis/pyber_summary.png)
+![](analysis/pyber_dataframe.png)
 
 The following figure shows weekly fare totals for the different city types for January-April 2019.
 
-![](analysis/weekly_Fares.png)
+![](analysis/pyber_fare_summary.png)
 
 ## Summary
 
